@@ -1,0 +1,5 @@
+@mixin linear-gradient($color-stop1, $color-stop2) {
+background: $color-stop1;
+background-image: url('https://www.transparenttextures.com/patterns/carbon-fibre.png');
+background: $background-image, linear-gradient(110deg, $color-stop1, $color-stop2);
+}

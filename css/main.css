@@ -1,0 +1,84 @@
+
+.blue-background {
+background-image: url("../images/background.jpg");
+background-position: center top;
+max-width: 640px;
+background-size: 640px 960px;
+padding: 25px;
+margin: auto;
+font-family: 'Open Sans', sans-serif;
+
+}
+
+.img {padding-bottom:20;}
+
+.h1 {text-align:center;}
+
+.car-shape2{
+  background-color: white;
+  padding: 30px;
+  text-indent: 20px,
+}
+
+
+.car-shape {
+  background-color: white;
+}
+
+.fa-1x {
+    font-size: 1.5rem;
+}
+.navbar-toggler.toggler-example {
+    cursor: pointer;
+}
+
+#navbarSupportedContent1 {
+  background-color: #FEFAF2;
+  padding-left: 3px;
+  opacity: 0.75;
+  font-weight:bold;
+}
+
+.hidden {
+  display: none;
+}
+
+#start{
+  background-color: #93bedb;
+  padding: 12px;
+  width: 200px;
+}
+
+#test{
+  background-color: #93bedb;
+}
+
+#test2{
+  background-color: #93bedb;
+}
+
+#test3{
+  background-color: #93bedb;
+}
+
+#test4{
+  background-color: #93bedb;
+}
+
+#test5{
+  background-color: #93bedb;
+}
+
+<style type="text/css">
+   .block {
+      display: block;
+   }  </style>
+
+#count-checked-checkboxes,
+.form-required {
+    color:red;
+}
+
+td {
+    padding: 10px;
+  }
